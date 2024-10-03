@@ -1,0 +1,43 @@
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    color: goldenrod;
+    border-style: dashed;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+h3 {
+    color: grey;
+    background-color:antiquewhite;
+}
+
+
+
+.food {
+    display: flex;
+    padding: 10px;
+    
+}
+
+.list {
+    border-style: hidden;
+    background-color:antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 300px;
+
+}
+
+img {
+    width: 200px;
+    padding: 10px
+}
